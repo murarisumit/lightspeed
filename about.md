@@ -1,25 +1,37 @@
 ---
 layout: page
-title: About This Theme
-description: About the Lightspeed jekyll theme
+title: About YinYangi
+description: About the blog
 ---
 
-Some fun facts about the theme include:
+#### What is YinYang
+[YinYang](https://en.wikipedia.org/wiki/Yin_and_yang) is philosophy, that helped me grow myself and kept me sane. For what we take out of it is, there is nothing absolute right(which is relative too) or absolute wrong. There always something good/right in something which I don't like or adhere to and vice-versa.
 
-* Perfect score on Google's Lighthouse audit
-* Only ~434 bytes of CSS
-* No media queries
-* No JavaScript
-* Probably the fastest Jekyll theme on the Internet <sup>1</sup>
+---
 
-## Who Made This
+#### About me
+Hi I'm Sumit Murari, maintainer for this website. A devsecops~(fancy term that adds security with devops ideology)~ professional with over 5 years of professional experience across large infrastucture scale to working on early stage startups.
 
-I'm Bradley Taunt, a designer/developer hybrid. 
+I have a strong emphasis about how infratructure should be kept with agility and complianace using automation as tool for system running, with a passion for security around it. 
 
-My passion lies in implementing minimal CSS, with a focus on accessibility and web performance. This theme started as an experiment to see how much could be stripped away from a website, while still maintaining clean and readable content.
+Feel free to checkout some my [favorite links and reading list](/personal-fav-link).
 
-Have questions or suggestions? Feel free to hit me up on [Twitter](https://twitter.com/bradtaunt).
+---
 
-Interested in some of my other open source projects? Check out my [portfolio](https://bradleytaunt.com).
+#### Occupation
+Working as a devsecops(fancy term that adds security with devops ideology) at [Grab](https://www.grab.com), a technology company offering ride-hailing transport services, food delivery and payment solutions in SEA region.
 
-<sup>1</sup> <small>[And I base that on absolutely nothing...](https://pbs.twimg.com/media/DtZUpV7WsAAfkeB.jpg)</small>
+---
+
+#### Skills & Tools
+
+Python, AWS, Kubernetes, Docker, Terraform, Vault, Ansible, Prometheus, Grafana, ELK stack, Git(fav), Vim.
+
+---
+
+#### Who Made This
+Taken from original theme here at [https://github.com/bradleytaunt/lightspeed](https://github.com/bradleytaunt/lightspeed) by [Bradley Taunt](https://bradleytaunt.com), and heavily inspired by his idea of keeping theme simple and clean.
+
+
+
+
